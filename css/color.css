@@ -1,0 +1,46 @@
+    
+.send-mail,
+.portfolio.type-1 .single-item:hover > figure h3,
+header .navbar nav ul li a:hover,
+header .navbar nav ul li a:active,
+header .navbar.full-nav.white nav ul.dropdown-menu li a:hover,
+header .navbar nav ul li a:focus,
+.blog.type-1 .blog-big .text .info span,
+.blog.type-1 .blog-list .text .info span,
+.portfolio_filter.type-2 ul li.select-cat,
+.article-nav a.prev:hover > span,
+.article-nav a.next:hover > span,
+.contact.type-2 .contact-mail i,
+.blog-single.type-1 .info span,
+.contact.type-3 .contact-info .icon .text span,
+.comment .reply,
+.home.agency .home-content .more:hover,
+.more:hover{
+    color: #d81300;
+} 
+
+.selected{
+   color: #d81300!important; 
+}
+    
+.line
+{
+    background: #d81300;
+}
+
+blockquote{
+    border-color: #d81300;
+}
+
+.spinner:before{
+    border-top-color: #d81300;  
+}
+
+.team .our-team .team-friend figure:after,
+.blog.type-1 .blog-big .image i,
+.blog.type-1 .blog-list ul li .image i{
+    background: rgba(216, 19, 0, 0.75);
+}
+
+
+
